@@ -20,7 +20,7 @@ read -s senhaValidacao
 criaSenha
 
 while [[ "$senha" != "$senhaValidacao" ]]; do
-echo "As senhas digitadas não são iguais!"
+echo "Passwords don't match! Please type again"
 criaSenha
 done
 
