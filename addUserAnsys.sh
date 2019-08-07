@@ -1,8 +1,8 @@
 #!/bin/bash
 clear
 echo "##################################################"
-echo "               USERADD WITH SMB SHARE"
-echo "		             v0.5-29.04.2019"
+echo "            USERADD WITH SMB SHARE"
+echo "		           v0.5-29.04.2019"
 echo "   Author: Gabriel Torelli | torelli@yahoo.com
 echo "##################################################"
 
